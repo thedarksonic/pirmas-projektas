@@ -1,0 +1,8 @@
+ctrl + s       failo išsaugojimas
+ctrl + c       failo kopijavimas
+ctrl + v       failo įklijavimas
+ctrl + z       grįžimas atgal undo
+ctrl + y       grįžimas į priekį
+shift+alt+up   kopijuoja eilutę
+shift+alt+down kopijuoja eilutę
+ctrl + f       paieška
